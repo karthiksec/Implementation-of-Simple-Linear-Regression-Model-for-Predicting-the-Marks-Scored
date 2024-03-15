@@ -69,24 +69,24 @@ print("RMSE= ",rmse)
 ## Dataset:
 ![309006202-11e77615-8f88-49b0-903f-2d479269b99d](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/4800b822-3b30-4d75-9939-216c6beab4fe)
 
-##Head Values:
+## Head Values:
 ![309006505-542dcb51-3cd6-49cb-a127-92bf922232dd](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/72167189-c58c-4ad6-867f-83373013c3a8)
 
-##Tail Values:
+## Tail Values:
 ![309006832-41ef1520-0a28-4322-b900-b9571d053b8b](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/fc666f2b-b9f3-41e5-8e54-a2e01352815d)
 
-##X and Y Values:
+## X and Y Values:
 ![309007067-20303b68-d7ec-46e8-b922-f9b5cbc891f1](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/b172a57a-4558-43cf-a371-e6914e977bb4)
 
-##Prediction values X and Y:
+## Prediction values X and Y:
 ![309007887-b4cc2779-f5a9-421e-bf6f-24089bc9b84f](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/9c73267e-cdf6-4e51-8daf-499dfcd60be2)
 
-##MSE, MAE and RMSE:
+## MSE, MAE and RMSE:
 ![309008434-ed6b78fb-1e30-44a5-b7ac-8530c1432dc7](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/b08ba4c3-54c8-4e1c-a377-f77022b5db5e)
 
-##Training Set:
+## Training Set:
 ![309008625-338e9031-40a1-407f-81fd-d89801e1f939](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/b6f7ac9e-4edc-45f1-bbc3-fb6df1a7bef2)
-##Testing set:
+## Testing set:
 ![309008905-74a4ba65-603c-4b3c-b10c-992a861a15f4](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/0eb18307-2b87-48de-8e4a-b266df387dc8)
 
 
