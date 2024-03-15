@@ -21,6 +21,11 @@ Developed by: Karthik G.
 RegisterNumber: 212223220043 
 */
 ```
+/*
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: Jesubalan A
+RegisterNumber:  212223240060
+*/
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -64,7 +69,6 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
-
 ## Output:
 ## Dataset:
 ![309006202-11e77615-8f88-49b0-903f-2d479269b99d](https://github.com/karthiksec/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147473368/4800b822-3b30-4d75-9939-216c6beab4fe)
