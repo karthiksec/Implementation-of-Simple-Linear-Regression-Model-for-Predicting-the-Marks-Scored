@@ -27,8 +27,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: Karthik G.
 RegisterNumber: 212223220043 
 */
-```
-```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
